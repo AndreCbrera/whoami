@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Andoni H.Q
+title: DACQ
 # description: This will be meta HTML tag content. This can be ignored.
 description: Pagina Web personal basada en Jekyll
 # baseurl: The subpath of your site
@@ -11,18 +11,18 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Andoni Hernandez
+username: Andrés Cabrera
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Sysadmin and Helpdesk
+typing_text: Junior DevOps
 # email: Your E-Mail address for the email button.
-email: andoni.hernandez.quero@gmail.com
+email: den282f@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: AndoniHQ
-linkedin_username: andonihq
-twitter_username: andonihq98
+github_username: AndreCbrera
+linkedin_username: adennyscabrera
+
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -33,7 +33,7 @@ show_aboutme_card: True
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 #about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-about_me_description: I am Iñaki Andoni Hernández Quero, and I prefer to be called Andoni directly. I have always been passionate about technology who wanted to understand what was beyond the screen and how devices work. As I entered this great world, I discovered the path that I would like to travel, and that is related to cybersecurity and automation. Thanks to the curiosity that this field generated in me, I managed to make the leap to programming in Python, which I have no doubt is my favorite programming language.
+about_me_description: En pruebas.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -85,7 +85,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: AndoniHQ/AndoniHQ.github.io
+repository: AndreCbrera/whoami
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -109,7 +109,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
@@ -125,5 +125,3 @@ exclude:
     "node_modules",
     "package.json",
   ]
-
-theme: jekyll-theme-cayman
