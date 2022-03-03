@@ -10,25 +10,17 @@
   type: coding
   weight: 2
 
-- name: Django
+- name: Bash
   type: coding
   weight: 2
 
-- name: HTML5
+- name: Git
   type: coding
-  weight: 2
+  weight: 3
 
-- name: CSS3
+- name: Groovy
   type: coding
-  weight: 2
-
-- name: PHP
-  type: coding
-  weight: 2
-
-- name: C
-  type: coding
-  weight: 2
+  weight: 3
 
 #OPERATING SYSTEMS
 - name: Windows 10 & Windows server 2003-2019
@@ -37,58 +29,33 @@
 
 - name: Linux - Debian & Ubuntu
   type: os
-  weight: 2
+  weight: 3
 
 #Virtualization
-- name: ESXi
-  type: virtualization
-  weight: 2
-
-- name: Proxmox
+- name: Docker
   type: virtualization
   weight: 2
 
 - name: VmWare
   type: virtualization
-  weight: 2
-
-- name: VirtualBox
-  type: virtualization
-  weight: 2
-
-#NETWORKING
-- name: Pfsense
-  type: networking
-  weight: 2
-
-- name: Shopos
-  type: networking
-  weight: 2
-
-- name: Cisco
-  type: networking
-  weight: 2
-
-- name: Mikrotik
-  type: networking
-  weight: 2
-
-#TICKETING
-
-- name: OTRS
-  type: ticketing
-  weight: 2
-
-- name: JIRA
-  type: ticketing
-  weight: 2
+  weight: 3
 
 #CLOUD COMPUTING
 
 - name: AWS
   type: cloud
-  weight: 2
+  weight: 3
 
-- name: ORACLECLOUD
+#CI/CD
+
+- name: Jenkins
   type: cloud
   weight: 2
+
+- name: Jira
+  type: cloud
+  weight: 2
+
+- name: Kubernetes
+  type: cloud
+  weight: 3

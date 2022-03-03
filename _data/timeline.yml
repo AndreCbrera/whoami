@@ -19,36 +19,21 @@
 
 - title: IES Tierno Galván
   title-url: https://www.educa2.madrid.org/web/tiernogalvan
-  date: 2017 - 2019
+  date: 2016 - 2018
   subtitle: Administración de sistemas informáticos en red
   tags:
-    - tag: Estudios - GPA 7.79
+    - tag: Estudios - GPA 7.00
   timeline-side: right
 
 - title: Dune
   title-url: https://dunetechnology.com/
-  date: 2019 - Present
+  date: 2018 - 2022
   subtitle: Helpdesk
   tags: 
     - tag: AD and O365 support
     - tag: OTRS ticketing
+    - tag: Networking switching Cisco
+    - tag: migrating dell equipment
   timeline-side: left
 
-- title: T2Ó
-  title-url: https://www.t2o.com/
-  date: 2019 - Present
-  subtitle: Sysadmin and IT support
-  tags:
-    - tag: Google Workspace & Office 365 & AD Administration
-    - tag: Maintenance of systems (Dell server/storage, Vcenter server)
-    - tag: Maintenance of networks (Pfsense, Unifi & Cisco ASA
-    - tag: Face-to-face Support
-  timeline-side: right
 
-- title: ISNUM
-  title-url: https://www.clubhackingmadrid.com/
-  date: 2021 - Present
-  subtitle: Master in Ethical Hacking
-  -tags:
-    - tag: Estudios
-  timeline-side: left
