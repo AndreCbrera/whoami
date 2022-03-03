@@ -17,45 +17,38 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
+- title: IES Tierno Galván
+  title-url: https://www.educa2.madrid.org/web/tiernogalvan
   date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  subtitle: Administración de sistemas informáticos en red
+  tags:
+    - tag: Estudios - GPA 7.79
+  timeline-side: right
+
+- title: Dune
+  title-url: https://dunetechnology.com/
+  date: 2019 - Present
+  subtitle: Helpdesk
+  tags: 
+    - tag: AD and O365 support
+    - tag: OTRS ticketing
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: T2Ó
+  title-url: https://www.t2o.com/
+  date: 2019 - Present
+  subtitle: Sysadmin and IT support
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Google Workspace & Office 365 & AD Administration
+    - tag: Maintenance of systems (Dell server/storage, Vcenter server)
+    - tag: Maintenance of networks (Pfsense, Unifi & Cisco ASA
+    - tag: Face-to-face Support
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: ISNUM
+  title-url: https://www.clubhackingmadrid.com/
+  date: 2021 - Present
+  subtitle: Master in Ethical Hacking
+  -tags:
+    - tag: Estudios
   timeline-side: left

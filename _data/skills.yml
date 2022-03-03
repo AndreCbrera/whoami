@@ -1,0 +1,94 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+#CODING
+- name: Python
+  type: coding
+  weight: 2
+
+- name: Django
+  type: coding
+  weight: 2
+
+- name: HTML5
+  type: coding
+  weight: 2
+
+- name: CSS3
+  type: coding
+  weight: 2
+
+- name: PHP
+  type: coding
+  weight: 2
+
+- name: C
+  type: coding
+  weight: 2
+
+#OPERATING SYSTEMS
+- name: Windows 10 & Windows server 2003-2019
+  type: os
+  weight: 2
+
+- name: Linux - Debian & Ubuntu
+  type: os
+  weight: 2
+
+#Virtualization
+- name: ESXi
+  type: virtualization
+  weight: 2
+
+- name: Proxmox
+  type: virtualization
+  weight: 2
+
+- name: VmWare
+  type: virtualization
+  weight: 2
+
+- name: VirtualBox
+  type: virtualization
+  weight: 2
+
+#NETWORKING
+- name: Pfsense
+  type: networking
+  weight: 2
+
+- name: Shopos
+  type: networking
+  weight: 2
+
+- name: Cisco
+  type: networking
+  weight: 2
+
+- name: Mikrotik
+  type: networking
+  weight: 2
+
+#TICKETING
+
+- name: OTRS
+  type: ticketing
+  weight: 2
+
+- name: JIRA
+  type: ticketing
+  weight: 2
+
+#CLOUD COMPUTING
+
+- name: AWS
+  type: cloud
+  weight: 2
+
+- name: ORACLECLOUD
+  type: cloud
+  weight: 2
