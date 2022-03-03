@@ -25,7 +25,7 @@ p {
 }
 
 a {
-	color: #379d31;
+	color: #31539d;
 	text-decoration: none
 }
 
@@ -34,21 +34,21 @@ a:hover {
 }
 
 .highlight-title {
-	color: #379d31;
-	text-shadow: .25rem .25rem .25rem #379d31
+	color: #31539d;
+	text-shadow: .25rem .25rem .25rem #31539d
 }
 
 .highlight-link {
-	box-shadow: inset 0 -.125rem 0 #379d31;
+	box-shadow: inset 0 -.125rem 0 #31539d;
 	box-sizing: border-box;
-	color: #379d31;
+	color: #31539d;
 	display: inline-block;
 	padding: .125rem;
 	transition: all .2s ease-in-out
 }
 
 .highlight-link:hover {
-	box-shadow: inset 0 -2rem 0 0 #379d31;
+	box-shadow: inset 0 -2rem 0 0 #31539d;
 	color: #fff
 }
 
@@ -169,7 +169,7 @@ a:hover {
 }
 
 .footer a {
-	color: #379d31
+	color: #31539d
 }
 
 #landing,
@@ -419,7 +419,7 @@ a:hover {
 }
 
 .timeline-wrapper .hexagon {
-	background: #379d31;
+	background: #31539d;
 	height: .5rem;
 	left: 0;
 	margin-left: auto;
@@ -442,12 +442,12 @@ a:hover {
 }
 
 .timeline-wrapper .hexagon:before {
-	border-bottom: .25rem solid #379d31;
+	border-bottom: .25rem solid #31539d;
 	top: -.25rem
 }
 
 .timeline-wrapper .hexagon:after {
-	border-top: .25rem solid #379d31;
+	border-top: .25rem solid #31539d;
 	bottom: -.25rem
 }
 
@@ -471,7 +471,7 @@ a:hover {
 
 .timeline-wrapper .flag span:after {
 	content: "\226B";
-	color: #379d31;
+	color: #31539d;
 	position: absolute;
 	opacity: 0;
 	right: -1rem;
@@ -568,7 +568,7 @@ a:hover {
 }
 
 .contact-icons .social-link .social-svg {
-	fill: #379d31
+	fill: #31539d
 }
 
 .contact-icons .social-link:hover {
