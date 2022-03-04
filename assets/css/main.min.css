@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
 html {
-	background: #2b2d2f;
+	background: #202122;
 	color: #fff;
 	font-family: Raleway, sans-serif;
 	font-size: 1rem;
@@ -175,7 +175,7 @@ a:hover {
 #landing,
 .footer a:focus,
 .footer a:hover {
-	background: #2b2d2f;
+	background: #202122;
 	color: #fff
 }
 
