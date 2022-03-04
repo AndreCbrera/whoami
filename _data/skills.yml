@@ -8,7 +8,7 @@
 #CODING
 - name: Python
   type: coding
-  weight: 2
+  weight: 3
 
 - name: Bash
   type: coding
@@ -20,10 +20,10 @@
 
 - name: Groovy
   type: coding
-  weight: 3
+  weight: 4
 
 #OPERATING SYSTEMS
-- name: Windows 10 & Windows server 2003-2019
+- name: Windows Server
   type: os
   weight: 2
 
@@ -34,28 +34,36 @@
 #Virtualization
 - name: Docker
   type: virtualization
-  weight: 2
+  weight: 3
 
 - name: VmWare
   type: virtualization
-  weight: 3
+  weight: 2
 
+- name: Docker-Compose
+  type: virtualization
+  weight: 2
+  
 #CLOUD COMPUTING
 
 - name: AWS
   type: cloud
   weight: 3
 
+- name: GCP
+  type: cloud
+  weight: 1
+
 #CI/CD
 
 - name: Jenkins
-  type: cloud
-  weight: 2
+  type: ci/cd
+  weight: 3
 
 - name: Jira
-  type: cloud
-  weight: 2
+  type: ci/cd
+  weight: 1
 
 - name: Kubernetes
-  type: cloud
-  weight: 3
+  type: ci/cd
+  weight: 2

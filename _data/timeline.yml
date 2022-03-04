@@ -23,17 +23,59 @@
   subtitle: Administración de sistemas informáticos en red
   tags:
     - tag: Estudios - GPA 7.00
-  timeline-side: right
-
-- title: Dune
-  title-url: https://dunetechnology.com/
-  date: 2018 - 2022
-  subtitle: Helpdesk
-  tags: 
-    - tag: AD and O365 support
-    - tag: OTRS ticketing
-    - tag: Networking switching Cisco
-    - tag: migrating dell equipment
   timeline-side: left
 
+- title: Dune Technology
+  title-url: https://dunetechnology.com/
+  date: 2018 - 2022
+  subtitle: Helpdesk & Sysadmin
+  tags: 
+    - tag: Linux OS
+    - tag: Otrs Ticketing
+    - tag: Ubiquiti - Unifi
+    - tag: Switching cisco y cableado
+    - tag: Pfsense
+  timeline-side: right
 
+- title: t2ó
+  title-url: https://www.t2o.com/
+  date: 2018 - 2019
+  subtitle: Helpdesk & Sysadmin
+  tags: 
+    - tag: Linux & Windows OS
+    - tag: Alta y bajas de usuarios
+    - tag: Otrs Ticketing
+    - tag: Ubiquiti - Unifi
+    - tag: KSC Kaspersky
+    - tag: Pfsense
+  timeline-side: right
+
+- title: t2ó
+  title-url: https://www.t2o.com/
+  date: 2020 - 2022
+  subtitle: Junior DevOps
+  tags: 
+    - tag: Groovy
+    - tag: Python
+    - tag: Jenkins
+    - tag: Docker & Docker-Compose
+    - tag: Kubernetes
+    - tag: AWS ec2
+    - tag: Jira
+    - tag: Git
+  timeline-side: right
+
+- title: Scalefast
+  title-url: https://www.scalefast.com/
+  date: 2022 - Actualmente
+  subtitle: Junior DevOps
+  tags: 
+    - tag: Groovy
+    - tag: Python
+    - tag: Jenkins
+    - tag: Docker & Docker-Compose
+    - tag: Kubernetes
+    - tag: AWS ec2
+    - tag: Jira
+    - tag: Git
+  timeline-side: right
