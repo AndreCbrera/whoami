@@ -59,7 +59,7 @@ a:hover {
 }
 
 .layout .card {
-	background: linear-gradient(145deg,  #12a15926 15%, #2b2d2f 80%);
+	background: linear-gradient(145deg,  #9797974d 15%, #2b2d2f 80%);
 	margin: 3rem 0;
 	padding: 1rem 2rem
 }
@@ -79,7 +79,7 @@ a:hover {
 
 .neumorphism-button {
 	background: linear-gradient(145deg, hsla(240, 2%, 40%, .15) 15%, rgba(33, 33, 33, .4) 80%);
-	box-shadow: #86ff0066 0px 0px 0px 2px, #4e4e4ea6 0px 4px 6px -1px, #ffffff14 0px 1px 0px inset
+	box-shadow: #d3d3d366 0px 0px 0px 2px, #0000006b 0px 4px 6px -1px, #ffffff14 0px 1px 0px inset  0px 0px 0px 2px, #4e4e4ea6 0px 4px 6px -1px, #ffffff14 0px 1px 0px inset
 }
 
 .neumorphism-card {
